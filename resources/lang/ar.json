@@ -1,0 +1,150 @@
+{
+    "dashboard": "لوحة التحكم",
+    "welcome": "مرحبا",
+    "sales": "المبيعات",
+    "pos": "بدأ البيع",
+    "new invoice": "انشاء فاتورة",
+    "invoices list": "قائمة الفواتير",
+    "customers": "العملاء",
+    "new customer": "اضافة عميل",
+    "customers list": "قائمة العملاء",
+    "make_invoice": "انشاء فاتورة",
+    "date": "التاريخ",
+    "sessions": "الجلسات",
+    "invoices": "الفواتير",
+    "users": "المستخدمين",
+    "new user": "اضافة مستخدم",
+    "users list": "قائمة المستخدمين",
+    "roles list": "قائمة الأدوار",
+    "new warehouse": "اضافة مستودع",
+    "warehouses list": "قائمة المستودعات",
+    "settings": "الاعدادات",
+
+
+    "full name": "الأسم بالكامل",
+    "vat number": "الرقم الضريبي",
+    "phone number": "رقم الهاتف",
+    "save": "حفظ",
+
+    "suppliers": "الموردين",
+    "new supplier": "اضافة مورد",
+    "suppliers list": "قائمة الموردين",
+    "supplier name": "أسم المورد",
+    "supplier data": "بيانات المورد",
+    "status": "الحاله",
+    "active": "نشط",
+    "not active": "غير نشط",
+    "company name": "أسم الشركة",
+    "phone": "الهاتف",
+    "adress": "العنوان",
+    "mail": "البريد الالكتروني",
+    "enter supplier information": "ادخل بايانات المورد",
+
+    "sales invoice": "فاتورة شراء",
+    "close session": "غلق الجلسة",
+    "walk in customer": "زبون عابر",
+    "name": "الاسم",
+    "stock": "المخزون",
+    "quantity": "الكمية",
+    "price": "السعر",
+    "recent transactions": "الفواتير الأخيره",
+    "other charges": "رسوم أخري",
+    "discount": "خصم",
+    "total amount": "المبلغ الاجمالي",
+    "shipping": "التوصيل",
+    "tax": "الضرائب",
+    "pay": "دفع",
+    "session total": "مجموع الجلسة",
+    "sesstion started at": "الجلسة بدأت في",
+    "biller": "الموظف",
+    "total": "المجموع",
+    "item name": "اسم المنتج",
+    "barcode": "باركود",
+    "itemcode": "كود المنتج",
+    "paid / remain": "المدفوع / الباقي",
+    "paid": "مدفوع",
+    "partially": "باقي",
+    "stock count": "الجرد",
+    "details": "التفاصيل",
+    "intila file": "الملف الأول",
+    "final file": "الملف النهائي",
+    "type": "النوع",
+    "full": "كامل",
+    "partial": "جزئي",
+    "choose warehouse": "اختر المستودع",
+    "choose type": "اختر النوع",
+    "choose category": "اختر التصنيف",
+    "files": "الملفات",
+    "upload updated file": "ارفع الملف بعد التعديل",
+    "payments list": "المدفوعات",
+
+
+
+    "enter invoice data": "ادخل بيانات الفاتورة",
+    "sales date": "تاريخ البيع",
+    "warehouse": "المستودع",
+    "customer name": "اسم العميل",
+
+    "invoice #": "رقم الفاتورة",
+    "Customer": "الزبون",
+    "print": "طباعة",
+
+
+    "purchase": "المشتريات",
+    "new purchase": "فاتورة شراء جديدة",
+    "purchase list": "قائمة المشتريات",
+
+    "items": "المنتجات",
+    "new item": "اضافة منتج",
+    "items list": "قائمة المنتجات",
+    "new category": "تصنيف جديد",
+    "categories list": "قائمة التصنيفات",
+    "category": "التصنيف",
+    "unit": "الوحده",
+    "sell unit": "وحدة البيع",
+    "purchase unit": "وحدة الشراء",
+    "quantity in purchase unit": "الكمية في وحدة الشراء",
+    "min quantity": "اقل كمية",
+    "expire date": "تاريخ الانتهاء",
+    "description": "الوصف",
+    "image": "الصورة",
+    "purchase price": "سعر الشراء",
+    "sales price": "سعر البيع",
+    "the default value": "القيمة الافتراضية ستكون",
+    "cost": "التكلفة",
+    "stock worth" : "القيمة",
+    "category name": "اسم التصنيف",
+    "enter category data": "ادخل بيانات التصنيف",
+    "warehouse name": "اسم المستودع",
+
+
+    "expenses": "النفقات",
+    "expenses list": "قائمة النفقات",
+    "new expense": "نفقات جديدة",
+    "reports": "التقارير",
+
+    "enter customer information": "ادخل بيانات العميل",
+    "enter item data": "ادخل بيانات المنتج",
+    "enter warehouse data": "ادخل بيانات المستودع",
+    "supplier": "المورد",
+    "opened at": "وقت البدء",
+    "closed at": "وقت الغلق",
+    "cash in hand": "المبلغ الابتدائي",
+    "session code": "كود الجلسة",
+    "product": "المنتج",
+
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+
+    "error phone unique": "رقم الهاتف هذا موجود بالفعل",
+    "error email unique": "البريد الالكتروني هذا موجود بالفعل",
+    "customer added successfully": "تمت اضافة العميل بنجاح"
+}
